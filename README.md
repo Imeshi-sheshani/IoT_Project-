@@ -1,6 +1,6 @@
-# slt_power_prox_new
+# IoT_Project- (slt_power_prox_new)
 
-A new Flutter project.
+This is a Flutter-based IoT integration project.
 
 ## Getting Started
 
